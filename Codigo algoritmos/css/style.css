@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://fondosmil.com/fondo/28650.jpg');
+    color: #415dfc;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+
+button{
+    padding: 6px 20px;
+    background: #0080ff 62.5% 0;
+    border: 1px solid #ffffff;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition:  .5s;
+
+}
+button:hover{
+    background: transparent;
+    color: #800080;
+    border-radius: 20px;
+    transition: .2s;
+}
